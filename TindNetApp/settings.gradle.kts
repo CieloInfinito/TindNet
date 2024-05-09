@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TindNetApp"
+rootProject.name = "Prueba"
 include(":app")
  
